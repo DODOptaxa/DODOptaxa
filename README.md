@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm DODOptaxa</h1>
-<h3 align="center">Backend-focused developer | .NET | ASP.NET Core | JavaScript</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=DODOptaxa&fontAlign=50&fontAlignY=40&color=gradient&desc=.NET%20%7C%20ASP.NET%20Core%20%7C%20JavaScript&descAlign=50&descAlignY=65"/>
+</p>
+
+<h3 align="center">Backend-focused developer</h3>
 
 <p align="center">
-  <img src="./assets/levi.gif" width="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=ASP.NET+Core+Developer;Building+chat+apps+and+web+projects;Learning+architecture%2C+SignalR+and+cloud"/>
 </p>
 
 ---
@@ -20,7 +23,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure"/>
 </p>
 
 ---
@@ -63,10 +66,12 @@ DOM, UI logic and small apps
 
 ---
 
-## 📫 Contact  
+<p align="center">
+  <img src="./assets/levi.gif" width="170"/>
+</p>
+
+---
 
 <p align="center">
-  <a href="https://github.com/DODOptaxa">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 </p>
