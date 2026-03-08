@@ -20,7 +20,7 @@
 💻 Backend-focused developer with **C#, ASP.NET Core, EF Core**  
 ⚡ Building real-time apps, APIs and web projects  
 🌱 Learning architecture, microservices and Azure  
-🎯 Goal: become a strong backend engineer  
+🎯 Goal: become a strong fullstack dev  
 
 </td>
 
