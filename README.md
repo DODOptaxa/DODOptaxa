@@ -12,7 +12,9 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
+<table align="center">
+<tr>
+<td width="65%" align="center">
 
 🎓 Computer Science student  
 💻 Backend-focused developer with **C#, ASP.NET Core, EF Core**  
@@ -20,7 +22,15 @@
 🌱 Learning architecture, microservices and Azure  
 🎯 Goal: become a strong backend engineer  
 
-</p>
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/dodo.gif" width="160" style="border-radius:14px;"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
