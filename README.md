@@ -10,17 +10,21 @@
 
 ---
 
-## <img src="https://static.wikia.nocookie.net/witcher/images/0/0e/Aard_sign.png" width="22"/> About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science student  
-- 💻 Backend-focused developer with **C#, ASP.NET Core, EF Core**
-- ⚡ Building **real-time apps, APIs, and web projects**
-- 🌱 Learning **architecture, microservices, and Azure**
-- 🎯 Goal: grow into a strong backend engineer  
+<p align="center">
+
+🎓 Computer Science student  
+💻 Backend-focused developer with **C#, ASP.NET Core, EF Core**  
+⚡ Building real-time apps, APIs and web projects  
+🌱 Learning architecture, microservices and Azure  
+🎯 Goal: become a strong backend engineer  
+
+</p>
 
 ---
 
-## <img src="https://static.wikia.nocookie.net/witcher/images/3/33/Igni_sign.png" width="22"/> Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure"/>
@@ -28,23 +32,21 @@
 
 ---
 
-## <img src="https://static.wikia.nocookie.net/witcher/images/6/6f/Quen_sign.png" width="22"/> Current Focus
+## 🎯 Current Focus
 
-<div align="center">
+<p align="center">
 
-| Domain | Current path |
-|--------|--------------|
-| Backend | ASP.NET Core, EF Core, APIs |
-| Real-time | SignalR chat apps |
-| Database | SQLite, PostgreSQL |
-| Frontend | Vanilla JavaScript |
-| Cloud | Azure basics |
+Backend → ASP.NET Core, EF Core, APIs  
+Real-time → SignalR chat apps  
+Database → SQLite, PostgreSQL  
+Frontend → Vanilla JavaScript  
+Cloud → Azure basics  
 
-</div>
+</p>
 
 ---
 
-## <img src="https://static.wikia.nocookie.net/witcher/images/5/5c/Yrden_sign.png" width="22"/> Stats
+## 📊 Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DODOptaxa&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFD76A&text_color=F7E7BE&icon_color=F0B44C"/>
@@ -53,7 +55,7 @@
 
 ---
 
-## <img src="https://static.wikia.nocookie.net/witcher/images/6/6f/Quen_sign.png" width="22"/> Codewars
+## 🏹 Codewars
 
 <p align="center">
   <a href="https://www.codewars.com/users/DODOptaxa">
@@ -63,16 +65,20 @@
 
 ---
 
-## <img src="https://static.wikia.nocookie.net/witcher/images/3/33/Igni_sign.png" width="22"/> Featured Projects
+## 🚀 Featured Projects
 
-### 💬 Online Chat  
-Real-time chat using **ASP.NET Core + SignalR**
+<p align="center">
 
-### 🌐 MVC Apps  
+💬 **Online Chat**  
+Real-time chat using ASP.NET Core + SignalR  
+
+🌐 **MVC Apps**  
 CRUD, authentication, EF Core  
 
-### 🧩 JavaScript Projects  
+🧩 **JavaScript Projects**  
 DOM, UI logic, small apps  
+
+</p>
 
 ---
 
