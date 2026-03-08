@@ -108,9 +108,9 @@ DOM, UI logic, small apps
 
 <p align="center">
   <a href="https://t.me/Dodoptax">
-    <img src="https://img.shields.io/badge/Telegram-@Dodoptax-3a2a16?style=for-the-badge&logo=telegram&logoColor=ffd76a&labelColor=20160c"/>
+    <img src="https://img.shields.io/badge/Telegram-Dodoptax-2AABEE?style=for-the-badge&logo=telegram"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-ilya305-3a2a16?style=for-the-badge&logo=discord&logoColor=ffd76a&labelColor=20160c"/>
+  <img src="https://img.shields.io/badge/Discord-ilya305-5865F2?style=for-the-badge&logo=discord"/>
 </p>
 
 <p align="center">
