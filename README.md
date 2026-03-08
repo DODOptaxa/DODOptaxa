@@ -6,7 +6,7 @@
 <h3 align="center">Backend-focused developer | .NET | ASP.NET Core | JavaScript</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DODOptaxa&style=flat-square&color=blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Building+chat+apps+and+web+projects;Learning+architecture%2C+SignalR+and+cloud" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -99,5 +99,4 @@ Small but useful apps for practicing:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
-</p>.
--->
+</p>
