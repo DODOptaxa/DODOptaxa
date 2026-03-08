@@ -104,6 +104,14 @@ DOM, UI logic, small apps
 </p>
 
 ---
+## 📬 Contacts
+
+<p align="center">
+  <a href="https://t.me/Dodoptax">
+    <img src="https://img.shields.io/badge/Telegram-@Dodoptax-3a2a16?style=for-the-badge&logo=telegram&logoColor=ffd76a&labelColor=20160c"/>
+  </a>
+  <img src="https://img.shields.io/badge/Discord-ilya305-3a2a16?style=for-the-badge&logo=discord&logoColor=ffd76a&labelColor=20160c"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ffe29a,25:f0b44c,55:c88a2a,80:6e4b1f,100:2b1d0e"/>
