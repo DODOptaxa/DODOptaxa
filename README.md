@@ -1,34 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Illia%20Lykhobaba&fontAlign=50&fontAlignY=38&color=0:1b1a17,25:2d261d,50:4b3b24,75:7a5c2e,100:c2a96a&fontColor=f5e6c8&desc=.NET%20%7C%20ASP.NET%20Core%20%7C%20JavaScript&descAlign=50&descAlignY=63&descColor=e7d7b1&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Illia%20Lykhobaba&fontAlign=50&fontAlignY=38&color=0:2b1d0e,20:6e4b1f,45:c88a2a,70:f0b44c,100:ffe29a&fontColor=fff4d6&desc=.NET%20%7C%20ASP.NET%20Core%20%7C%20JavaScript&descAlign=50&descAlignY=63&descColor=fff0c2&animation=fadeIn"/>
 </p>
 
 <h3 align="center">Backend-focused developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=23&pause=1200&center=true&vCenter=true&width=720&color=D9C39A&lines=Forging+backend+systems+with+.NET;Building+real-time+apps+and+web+projects;Learning+architecture%2C+SignalR+and+cloud;Crafting+clean+logic+from+chaos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&pause=1100&center=true&vCenter=true&width=760&color=FFD76A&lines=Forging+backend+systems+with+.NET;Building+real-time+apps+and+web+projects;Learning+architecture%2C+SignalR+and+cloud;Crafting+clean+logic+from+chaos"/>
 </p>
 
 ---
 
-## 🜂 About Me
+## <img src="https://static.wikia.nocookie.net/witcher/images/0/0e/Aard_sign.png" width="22"/> About Me
 
 - 🎓 Computer Science student  
 - 💻 Backend-focused developer with **C#, ASP.NET Core, EF Core**
 - ⚡ Building **real-time apps, APIs, and web projects**
 - 🌱 Learning **architecture, microservices, and Azure**
-- 🎯 Goal: grow into a strong **backend engineer**
+- 🎯 Goal: grow into a strong backend engineer  
 
 ---
 
-## ⚔ Tech Stack
+## <img src="https://static.wikia.nocookie.net/witcher/images/3/33/Igni_sign.png" width="22"/> Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure"/>
 </p>
 
 ---
 
-## 🜁 Current Focus
+## <img src="https://static.wikia.nocookie.net/witcher/images/6/6f/Quen_sign.png" width="22"/> Current Focus
 
 <div align="center">
 
@@ -44,25 +44,35 @@
 
 ---
 
-## 🜃 GitHub Stats
+## <img src="https://static.wikia.nocookie.net/witcher/images/5/5c/Yrden_sign.png" width="22"/> Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DODOptaxa&show_icons=true&theme=gruvbox&hide_border=true&title_color=d9c39a&text_color=ebdbb2&icon_color=c8a76d&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DODOptaxa&layout=compact&theme=gruvbox&hide_border=true&title_color=d9c39a&text_color=ebdbb2&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DODOptaxa&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFD76A&text_color=F7E7BE&icon_color=F0B44C"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DODOptaxa&layout=compact&hide_border=true&bg_color=00000000&title_color=FFD76A&text_color=F7E7BE"/>
 </p>
 
 ---
 
-## 🜄 Featured Projects
+## <img src="https://static.wikia.nocookie.net/witcher/images/6/6f/Quen_sign.png" width="22"/> Codewars
 
-### 💬 Online Chat
+<p align="center">
+  <a href="https://www.codewars.com/users/DODOptaxa">
+    <img src="https://www.codewars.com/users/DODOptaxa/badges/large"/>
+  </a>
+</p>
+
+---
+
+## <img src="https://static.wikia.nocookie.net/witcher/images/3/33/Igni_sign.png" width="22"/> Featured Projects
+
+### 💬 Online Chat  
 Real-time chat using **ASP.NET Core + SignalR**
 
-### 🌐 MVC Apps
-CRUD, authentication, and EF Core practice projects
+### 🌐 MVC Apps  
+CRUD, authentication, EF Core  
 
-### 🧩 JavaScript Projects
-DOM, UI logic, and small interactive apps
+### 🧩 JavaScript Projects  
+DOM, UI logic, small apps  
 
 ---
 
@@ -73,5 +83,5 @@ DOM, UI logic, and small interactive apps
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:c2a96a,35:7a5c2e,70:2d261d,100:1b1a17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ffe29a,25:f0b44c,55:c88a2a,80:6e4b1f,100:2b1d0e"/>
 </p>
