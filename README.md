@@ -6,10 +6,6 @@
 <h3 align="center">Backend-focused developer | .NET | ASP.NET Core | JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Building+chat+apps+and+web+projects;Learning+architecture%2C+SignalR+and+cloud" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
