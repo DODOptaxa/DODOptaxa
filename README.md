@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=DODOptaxa&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Backend-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stack-.NET%20%2B%20JS-512BD4?style=for-the-badge" />
