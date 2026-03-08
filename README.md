@@ -1,36 +1,23 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ilya%20Lihobaba&fontAlign=50&fontAlignY=40&color=gradient&desc=.NET%20%7C%20ASP.NET%20Core%20%7C%20JavaScript&descAlign=50&descAlignY=65" />
-</p>
-
-<h1 align="center">Hi, I'm Ilya 👋</h1>
+<h1 align="center">Hi 👋, I'm DODOptaxa</h1>
 <h3 align="center">Backend-focused developer | .NET | ASP.NET Core | JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Building+chat+apps+and+web+projects;Learning+architecture%2C+SignalR+and+cloud" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=DODOptaxa&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Backend-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-.NET%20%2B%20JS-512BD4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Azure-0078D4?style=for-the-badge" />
+  <img src="./assets/levi.gif" width="170"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🎓 Computer Science student
-- 💻 I build web apps using **C#, ASP.NET Core, EF Core, JavaScript**
-- ⚡ Currently working on **chat apps, backend logic, and database architecture**
-- 🌱 Learning **SignalR, microservices, Azure, and clean architecture**
-- 🎯 My goal is to become a strong **backend engineer**
+- 🎓 Computer Science student  
+- 💻 Backend-focused developer (**C#, ASP.NET Core, EF Core**)  
+- ⚡ Building real-time apps (SignalR), APIs & web projects  
+- 🌱 Learning architecture, microservices & Azure  
+- 🎯 Goal → become a strong backend engineer  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure" />
@@ -38,16 +25,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Current Focus
+## 🔥 Current Focus  
 
 <div align="center">
 
@@ -55,48 +33,40 @@
 |------|----------------|
 | Backend | ASP.NET Core, EF Core, APIs |
 | Real-time | SignalR chat apps |
-| Database | SQLite, PostgreSQL, relations design |
-| Frontend | Vanilla JavaScript, HTML, CSS |
-| Cloud | Azure basics and deployment |
+| Database | SQLite, PostgreSQL |
+| Frontend | Vanilla JS |
+| Cloud | Azure basics |
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats  
 
-### 💬 Online Chat
-Real-time chat built with **ASP.NET Core + SignalR**  
-Features:
-- rooms
-- messaging
-- backend architecture
-- database integration
-
-### 🌐 MVC Web Apps
-Practice projects with:
-- authentication
-- CRUD
-- EF Core
-- clean structure
-
-### 🧩 JavaScript Projects
-Small but useful apps for practicing:
-- DOM manipulation
-- UI logic
-- events
-- components
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DODOptaxa&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DODOptaxa&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📫 Contact
+## 📌 Featured Projects  
+
+### 💬 Online Chat  
+Real-time chat using **ASP.NET Core + SignalR**
+
+### 🌐 MVC Apps  
+CRUD + auth + EF Core projects  
+
+### 🧩 JavaScript Projects  
+DOM, UI logic and small apps  
+
+---
+
+## 📫 Contact  
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/DODOptaxa">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 </p>
