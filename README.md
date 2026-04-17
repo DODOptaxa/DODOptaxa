@@ -49,7 +49,7 @@
 Backend → ASP.NET Core, EF Core, APIs  
 Real-time → SignalR chat apps  
 Database → SQLite, PostgreSQL  
-Frontend → Vanilla JavaScript  
+Frontend → React  
 Cloud → Azure basics  
 
 </p>
