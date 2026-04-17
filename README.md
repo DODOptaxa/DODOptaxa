@@ -5,7 +5,7 @@
 <h3 align="center">Backend-focused developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&pause=1100&center=true&vCenter=true&width=760&color=FFD76A&lines=Forging+backend+systems+with+.NET;Building+real-time+apps+and+web+projects;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&pause=1100&center=true&vCenter=true&width=760&color=FFD76A&lines=Forging+backend+systems+with+.NET;"/>
 </p>
 
 ---
