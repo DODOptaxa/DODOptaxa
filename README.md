@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Illia%20Lykhobaba&fontAlign=50&fontAlignY=38&color=0:2b1d0e,20:6e4b1f,45:c88a2a,70:f0b44c,100:ffe29a&fontColor=fff4d6&desc=.NET%20%7C%20ASP.NET%20Core%20%7C%20JavaScript&descAlign=50&descAlignY=63&descColor=fff0c2&animation=fadeIn"/>
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 <table align="center">
