@@ -10,7 +10,7 @@
 
 🎓 Computer Science student  
 ⚡ Interested in web development and game development  
-🎯 Goal: become a strong fullstack dev 
+🎯 Goal: become a strong fullstack dev (asp net. / vite)
 
 </td>
 
