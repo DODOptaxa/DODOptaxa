@@ -9,11 +9,8 @@
 <td width="65%" align="center">
 
 🎓 Computer Science student  
-💻 Backend-focused developer with **ASP.NET Core**  
-🐍 Learning and building with **Python**  
-🎮 Creating game prototypes in **Unity**  
 ⚡ Interested in web development and game development  
-🎯 Goal: become a strong fullstack developer  
+🎯 Goal: become a strong fullstack dev 
 
 </td>
 
