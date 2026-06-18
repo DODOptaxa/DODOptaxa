@@ -33,22 +33,6 @@
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-C%23%20%7C%20ASP.NET%20Core-3a2a16?style=for-the-badge&logo=dotnet&logoColor=ffd76a&labelColor=20160c" />
-  <img src="https://img.shields.io/badge/Frontend-React&logo=react&logoColor=ffd76a&labelColor=20160c" />
-  <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20SQLServer-3a2a16?style=for-the-badge&logo=postgresql&logoColor=ffd76a&labelColor=20160c" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Real--time-SignalR-4a3218?style=for-the-badge&logo=signal&logoColor=ffe29a&labelColor=24180d" />
-  <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20%7C%20VS%20Code-4a3218?style=for-the-badge&logo=visualstudio&logoColor=ffe29a&labelColor=24180d" />
-  <img src="https://img.shields.io/badge/Cloud-Azure-4a3218?style=for-the-badge&logo=microsoftazure&logoColor=ffe29a&labelColor=24180d" />
-</p>
-
----
-
 ## 🏹 Codewars
 
 <p align="center">
