@@ -11,7 +11,6 @@
 🎓 Computer Science student  
 💻 Backend-focused developer with **C#, ASP.NET Core, EF Core**  
 ⚡ Building real-time apps, APIs and web projects  
-🌱 Learning architecture, microservices and Azure  
 🎯 Goal: become a strong fullstack dev  
 
 </td>
@@ -30,20 +29,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-<p align="center">
-
-Backend → ASP.NET Core, EF Core, APIs  
-Real-time → SignalR chat apps  
-Database → SQLite, PostgreSQL  
-Frontend → React  
-Cloud → Azure basics  
-
 </p>
 
 ---
