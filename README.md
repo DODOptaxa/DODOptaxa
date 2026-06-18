@@ -9,7 +9,7 @@
 <td width="65%" align="center">
 
 🎓 Computer Science student  
-💻 Backend-focused developer with **C#, ASP.NET Core, EF Core**  
+💻 Backend-focused developer with **C#, ASP.NET Core**  
 ⚡ Building real-time apps, APIs and web projects  
 🎯 Goal: become a strong fullstack dev  
 
