@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Illia%20Lykhobaba&fontAlign=50&fontAlignY=38&color=0:2b1d0e,20:6e4b1f,45:c88a2a,70:f0b44c,100:ffe29a&fontColor=fff4d6&desc=ASP.NET%20Core%20%7C%20JS(react/vite)&descAlign=50&descAlignY=63&descColor=fff0c2&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Hello!&fontAlign=50&fontAlignY=42&color=0:022c22,20:045d56,45:0d8f6d,70:20b486,100:67d5a5&fontColor=FFD700&animation=fadeIn"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -9,15 +9,17 @@
 <td width="65%" align="center">
 
 🎓 Computer Science student  
-💻 Backend-focused developer with **C#, ASP.NET Core**  
-⚡ Building real-time apps, APIs and web projects  
-🎯 Goal: become a strong fullstack dev  
+💻 Backend-focused developer with **ASP.NET Core**  
+🐍 Learning and building with **Python**  
+🎮 Creating game prototypes in **Unity**  
+⚡ Interested in web development and game development  
+🎯 Goal: become a strong fullstack developer  
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="./assets/dodo.gif" width="160" style="border-radius:14px;"/>
+<img src="./assets/dodo.gif" width="160"/>
 
 </td>
 </tr>
@@ -28,7 +30,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,unity,js,html,css,sqlite,postgres,git,github,vscode,visualstudio,azure"/>
 </p>
 
 ---
@@ -48,13 +50,16 @@
 <p align="center">
 
 💬 **Online Chat**  
-Real-time chat using ASP.NET Core + SignalR  
+Real-time chat using ASP.NET Core + SignalR
 
 🌐 **MVC Apps**  
-CRUD, authentication, EF Core  
+CRUD, Authentication, Entity Framework Core
+
+🎮 **Unity Projects**  
+Gameplay mechanics, AI, procedural systems
 
 🧩 **JavaScript Projects**  
-DOM, UI logic, small apps  
+DOM, UI logic, small applications
 
 </p>
 
@@ -65,6 +70,7 @@ DOM, UI logic, small apps
 </p>
 
 ---
+
 ## 📬 Contacts
 
 <p align="center">
@@ -75,5 +81,6 @@ DOM, UI logic, small apps
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:ffe29a,25:f0b44c,55:c88a2a,80:6e4b1f,100:2b1d0e"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:67d5a5,25:20b486,55:0d8f6d,80:045d56,100:022c22"/>
 </p>
+
