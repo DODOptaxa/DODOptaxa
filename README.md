@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-C%23%20%7C%20ASP.NET%20Core-3a2a16?style=for-the-badge&logo=dotnet&logoColor=ffd76a&labelColor=20160c" />
-  <img src="https://img.shields.io/badge/Frontend-JavaScript%20%7C%20HTML%20%7C%20CSS-3a2a16?style=for-the-badge&logo=javascript&logoColor=ffd76a&labelColor=20160c" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20-3a2a16?style=for-the-badge&logo=javascript&logoColor=ffd76a&labelColor=20160c" />
   <img src="https://img.shields.io/badge/Database-SQLite%20%7C%20SQLServer-3a2a16?style=for-the-badge&logo=postgresql&logoColor=ffd76a&labelColor=20160c" />
 </p>
 
